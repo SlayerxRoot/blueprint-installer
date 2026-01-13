@@ -1,2 +1,1 @@
-# blueprint-installer
-1 click blueprint installer
+bash <(curl -s https://raw.githubusercontent.com/SlayerxRoot/blueprint-installer)
